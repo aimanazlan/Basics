@@ -1,3 +1,2 @@
 # Basics
-This serves as basics of Java, Ruby, OCaml\n
-Simple and Effective Projects
+This serves as basics of Java, Ruby, OCaml by implementing simple projects
